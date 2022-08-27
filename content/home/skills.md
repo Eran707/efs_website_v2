@@ -16,17 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
+#- icon: r-project
+#  icon_pack: fabe
+#  name: R
+  - icon: stethoscope
+    icon_pack: fas
+    name: Clinical Medicine
+  - icon: brain
+    icon_pack: fas
+    name: Neuroscience
+  - icon: code
+    icon_pack: fas
+    name: Coding 
+  - icon: calculator
+    icon_pack: fas
+    name: Statistics and Mathematics
   - icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - icon: camera-retro
+    name: Data Analysis and Visualization
+  - icon: person-chalkboard
     icon_pack: fas
-    name: Photography
-  - icon: code-solid
-    name: Coding
+    name: Teaching and Scientific Communication
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
